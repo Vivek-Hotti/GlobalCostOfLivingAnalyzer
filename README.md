@@ -1,0 +1,1 @@
+# Global_Cost_Of_Living_Analyzer
