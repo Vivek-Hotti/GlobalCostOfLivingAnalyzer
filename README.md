@@ -1,6 +1,6 @@
 # Global Cost Of Living Analyzer
 
-##### <i> Data set link : </i>
+##### <i> Data set link : <a href = https://www.kaggle.com/stephenofarrell/cost-of-living>Kaggle</a></i>
 
 ### Problem Statements:
 1. Analyze the cost of living in different geographical areas
