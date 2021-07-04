@@ -9,53 +9,54 @@
 
 ### Comparing Lifestyle in different countries:
 
-![](1)
+<img width="40%" src="https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/1.1.JPG"> 
 As seen above, countries with darker shades of yellow, represent more cost.
 
-### Top 'N' and Bottom 'N' Analysis
+### Top 'N' and Bottom 'N' Analysis:
 
 | Top 5 Most Expensive Countries  | Top 5 Least Expensive Countries  |
 | ------------- | ------------- |
-| ![](2)  | ![](3)  |
+| ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/2.1.JPG)  | ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/3.1.JPG)  |
 
-### Perfroming Geospatial Analysis and creating Folium Bubble Map comparing costs of Education, Travel, Income, Food, Living & Lifestyles across the world
+### Perfroming Geospatial Analysis and creating Folium Bubble Map; to compare costs of Education, Travel, Income, Food, Living & Lifestyles across the world:
 | Education  | Travel | Food |
 | ------------- | ------------- | ------------ |
-| ![](4)  | ![](5)  | ![](6) |
+| ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/4.JPG)  | ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/5.JPG)  | ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/6.JPG) |
 
 | Income  | Living  | Lifestyle |
 | ------------- | ------------- | ------------ |
-| ![](7)  | ![](8)  | ![](9) |
+| ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/7.JPG)  | ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/8.JPG)  | ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/9.JPG) |
 
-### Ruling out relationships between different factors
-![](10)
+### Ruling out relationships between different factors using a Heatmap:
+<img width="63%" src="https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/10.png"> 
 
-### Comparing Lifestyles and other Factors of Popular Countries
-![](11)
+### Comparing Lifestyles and other Factors of Popular Countries:
+<img width="35%" src="https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/11.JPG"> 
 
-### Comparing Lifestyles and other Factors of Indian Citites
-![](12)
+### Comparing Lifestyles and other Factors of Indian Citites:
+<img width="50%" src="https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/12.png"> 
 
-### List of most and least expensive countries to live in after intermediate analysis
+### List of most and least expensive countries to live in after intermediate analysis:
 | Most Expensive Countries  | Least Expensive Countries  |
 | ------------- | ------------- |
-| ![](13)  | ![](14)  |
+| ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/13.JPG)  | ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/14.JPG)  |
 
-### Analyzing the Quality of Life
+### Analyzing the Quality of Life:
 | Best  | Worst  |
 | ------------- | ------------- |
-| ![](15)  | ![](16)  |
+| ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/15.JPG)  | ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/16.JPG)  |
 
-### Analyzing the Healthcare
+### Analyzing the Healthcare:
 | Best  | Worst  |
 | ------------- | ------------- |
-| ![](17)  | ![](18)  |
+| ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/17.JPG)  | ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/18.JPG)  |
 
-### Analyzing the Crime Rates
+### Analyzing the Crime Rates:
 | Best  | Worst  |
 | ------------- | ------------- |
-| ![](19)  | ![](20)  |
+| ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/19.JPG)  | ![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/20.JPG)  |
 
-## Recommending better cities to Live
-![](21)
+## Recommending better cities to Live:
+
+![](https://github.com/Vivek-Hotti/Global_Cost_Of_Living_Analyzer/blob/main/images/21.JPG)
 
